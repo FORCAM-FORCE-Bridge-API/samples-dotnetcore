@@ -1,7 +1,7 @@
 # Sample Applications
 
 Provides sample applications for using the FORCAM FORCE Bridge API with .NET Core, ASP.NET Core & C#.
-If you have any questions look at https://ask.forcebridge.io/
+If you have any questions look at https://forcebridge.io/en/qa-portal/
 
 Preview of one of the apps:
 
