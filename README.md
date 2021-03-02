@@ -11,7 +11,7 @@ Preview of one of the apps:
 ### Useful Links
 
 * Website: https://www.forcebridge.io/ | https://www.forcam.com/
-* Documentation: https://docs.forcebridge.io/
+* Documentation: https://forcebridge.io/en/developers/
 * API Definition: https://app.swaggerhub.com/apis-docs/FORCAM/FORCEBridgeAPI/
 
 ### Usage / Requirements
